@@ -34,6 +34,12 @@
 * Publishing : HTML5 + CSS3 + Javascript
 * flex, grid 이용
 * https://github.com/sophia0307/enterprise_construction
+#### Plants_Store_Site
+* Bootstrap을 이용한 식물 쇼핑몰 반응형 사이트입니다.(메인페이지 완료)
+* 제작 기간 : 2023.01.27 ~ 2023.02.01 (5일)
+* 기여도 : 퍼블리싱 100%
+* Publishing : HTML5 + CSS3 + Bootstrap
+* https://github.com/sophia0307/Plants_Store_Site
 
 ### 🎓 Education 
 * 동원대학(2011.03~ 2013.02 / 졸업) - 뷰티디자인전공
