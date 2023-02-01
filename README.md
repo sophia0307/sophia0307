@@ -26,20 +26,23 @@
 * 기여도 : 기획 100% + 퍼블리싱 100%
 * Publishing : HTML5 + CSS3 + Javascript
 * flex, grid 이용
-* https://github.com/sophia0307/Harry_Potter_Site            
+* GitHub : https://github.com/sophia0307/Harry_Potter_Site 
+* Demo URL :  https://harrypotterdemosite.netlify.app/           
 #### enterprise_construction
 * 기업형 반응형웹 데모 사이트입니다.(메인페이지 완료)
 * 제작 기간 : 2022.12.24 ~ 2023.01.01 (9일)
 * 기여도 : 기획 100% + 퍼블리싱 100%
 * Publishing : HTML5 + CSS3 + Javascript
 * flex, grid 이용
-* https://github.com/sophia0307/enterprise_construction
+* GitHub : https://github.com/sophia0307/enterprise_construction
+* Demo URL :  https://enterpriseconstrucstiondemo.netlify.app/
 #### Plants_Store_Site
 * Bootstrap을 이용한 식물 쇼핑몰 반응형 사이트입니다.(메인페이지 완료)
 * 제작 기간 : 2023.01.27 ~ 2023.02.01 (5일)
 * 기여도 : 퍼블리싱 100%
 * Publishing : HTML5 + CSS3 + Bootstrap
-* https://github.com/sophia0307/Plants_Store_Site
+* GitHub : https://github.com/sophia0307/Plants_Store_Site
+* Demo URL : https://kimjihye37.github.io/Plant_Store_site/
 
 ### 🎓 Education 
 * 동원대학(2011.03~ 2013.02 / 졸업) - 뷰티디자인전공
